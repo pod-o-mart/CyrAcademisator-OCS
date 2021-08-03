@@ -1,0 +1,43 @@
+﻿textarea {
+border:1px solid #aaa;
+margin:2px;width:100%;
+font-size:1.5em;
+line-height:1.5em;
+font-style:normal;
+width:100%;
+}
+
+.keyboardInputInitiator {
+margin:0px 3px;
+vertical-align:middle;
+cursor:pointer;
+float:left;
+}
+
+form[name="languagepicker"] {
+max-width: max-content;
+display: inline-flex;
+float: right;
+}
+
+.ksl {
+font-family: 'Monomakh Unicode';
+font-weight: normal;
+font-style: normal;
+/*font-family:Cyracademisator-cu,Bukyvede,Dilyana,Menaion Medieval,Triodion ieUcs,Ponomar Unicode TT,Monomachus,Fedorovsk Unicode TT,Lazov,serif !important;*/
+}
+
+.grzdk {
+font-family: 'Old Standard TT';
+font-weight: normal;
+font-style: normal;
+/*font-family:RomanCyrillic Std,CampusRoman Std,Kliment Std,TITUS Cyrillic,TITUS Cyberbit Basic,ALPHABETUM Unicode,Code2000,LeedsUni,Method Std,Staroslavenski unicode,Thryomanes,Arial Church,serif !important;*/
+}
+
+.monospace {
+font-family: 'FiraSlav';
+font-weight: normal;
+font-style: normal;
+}
+
+
