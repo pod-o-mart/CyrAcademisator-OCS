@@ -1,4 +1,6 @@
 # CyrAcademisator-OCS
+[![DOI](https://zenodo.org/badge/392115470.svg)](https://zenodo.org/badge/latestdoi/392115470)
+
 A transliteration tool for Old Church Slavonic (Old Bulgarian) and Old Russian.
 
 ## About
